@@ -2,11 +2,11 @@
 This is the backend source code from the Python Part 2 Event: Web development with Python & Deployment with Azure. For the purposes of the event we created a simple Todo List App.
 
 ### Installation
-[Python 3.6](https://www.python.org/downloads/release/python-360/) is needed for the project. Also download [Pip](https://pypi.org/project/pip/) and run
+[Python 3.6](https://www.python.org/downloads/release/python-360/) is needed for the project. Also download [Pip](https://pypi.org/project/pip/) and run:
  ```
  pip install pipenv
  ``` 
- to get [Pipenv](https://github.com/pypa/pipenv). In order to download the python dependencies simply run
+ to get [Pipenv](https://github.com/pypa/pipenv). In order to download the python dependencies simply run:
  ```
  pipenv install
  ```
